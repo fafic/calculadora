@@ -7,5 +7,12 @@ public class Calculadora {
 		float resultado = a-b;
 		return resultado;
 	}
-    
+
+	public int calcularQuadrado(int a){
+		return a*a;
+	}
+
+	public float calcularQuadrade(float a){
+		return a*a;
+	}
 }
