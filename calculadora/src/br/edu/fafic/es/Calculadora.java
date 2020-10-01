@@ -12,7 +12,7 @@ public class Calculadora {
 		return a*a;
 	}
 
-	public float calcularQuadrade(float a){
+	public float calcularQuadrado(float a){
 		return a*a;
 	}
 }
