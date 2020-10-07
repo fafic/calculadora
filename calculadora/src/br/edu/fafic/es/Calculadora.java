@@ -41,6 +41,11 @@ public class Calculadora {
 	public void metodoDaBranchDoDesenevolvedor(){
 		System.out.println("Cada um na sua branch");
 	}
+	
+	//André
+	public void imprimirNomeAndre(){
+		System.out.println("André");
+	}
 
 
 }
