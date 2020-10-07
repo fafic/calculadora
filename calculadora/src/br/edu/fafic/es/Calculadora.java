@@ -51,4 +51,7 @@ public class Calculadora {
 		System.out.println("Lucas");
 	}
 
+	public void imprimirNomeOrlando(){
+		System.out.println("Orlando");
+	}
 }
