@@ -34,4 +34,8 @@ public class Calculadora {
 		}
 	}
 
+	public void imprimirNome(){
+		System.out.println("Luciano");
+	}
+
 }
