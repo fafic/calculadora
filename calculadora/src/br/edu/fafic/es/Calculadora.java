@@ -30,7 +30,7 @@ public class Calculadora {
 			System.out.println("Area= "+Area);
 		}
 		else{
-			System.out.println("As medidas n�o obedecem a condi��o exist�ncia do tri�ngulo");
+			System.out.println("As medidas nao obedecem a condicaoo existencia do triangulo");
 		}
 	}
 
