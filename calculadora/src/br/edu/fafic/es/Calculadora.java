@@ -2,7 +2,7 @@ package br.edu.fafic.es;
 
 public class Calculadora {
 
-	//André - Método Subtração
+	//Andrï¿½ - Mï¿½todo Subtraï¿½ï¿½o
 	public float subtrair(float a, float b) {
 		float resultado = a-b;
 		return resultado;
@@ -30,12 +30,12 @@ public class Calculadora {
 			System.out.println("Area= "+Area);
 		}
 		else{
-			System.out.println("As medidas não obedecem a condição existência do triângulo");
+			System.out.println("As medidas nï¿½o obedecem a condiï¿½ï¿½o existï¿½ncia do triï¿½ngulo");
 		}
 	}
 
 	public void imprimirNome(){
-		System.out.println("Luciano");
+		System.out.println("Luciano Tavares");
 	}
 
 }
